@@ -1,0 +1,9 @@
+
+Release Notes (2014-11-05)
+-支持oauth账号登陆
+-支持第三方私有插件
+-合并BlendUI到Runtime
+-ApiKey合法性校验
+-服务器小流量上线
+-多宿主间共享插件
+-解除对frontia依赖 

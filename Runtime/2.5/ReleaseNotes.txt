@@ -1,0 +1,9 @@
+
+Release Notes (2014-12-04)
+-支持基本的离线存储方案
+-支持蓝牙插件
+-Layer支持cover动画
+-优化Toolbar（移动到顶部并修改展示风格）
+-BendUI重用多WebView的优化
+-建立完备的JS、Runtime、宿主通信机制
+-支持输入法事件
