@@ -1,7 +1,7 @@
 
-ReleaseNotes ��2015-02-11�� 
-- ֧��Toolbar����
-- ֧�����ߴ洢
-- �༶�˵������Ż�
-- ֧�ֲ��������
-- BlendUI Web������ǿ
+ReleaseNotes （2015-02-11） 
+- 支持Toolbar隐藏
+- 支持离线存储
+- 多级菜单体验优化
+- 支持侧边栏导航
+- BlendUI Web能力增强
